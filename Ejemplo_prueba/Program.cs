@@ -10,6 +10,9 @@ namespace Ejemplo_prueba
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hola, mundo!");
+            Console.WriteLine("Presiona cualquier tecla para salir...");
+            Console.ReadKey();
         }
     }
 }
