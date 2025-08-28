@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo_prueba", "Ejemplo_p
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejem1Guia8", "ejem1Guia8\ejem1Guia8.csproj", "{EDFF1766-B23E-4C91-8DD5-44C39DDD19E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E2G8_Interfaces", "E2G8_Interfaces\E2G8_Interfaces.csproj", "{F6E6FE86-B9EA-4EF9-8270-3D9804B2ED8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{EDFF1766-B23E-4C91-8DD5-44C39DDD19E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDFF1766-B23E-4C91-8DD5-44C39DDD19E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDFF1766-B23E-4C91-8DD5-44C39DDD19E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6E6FE86-B9EA-4EF9-8270-3D9804B2ED8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E6FE86-B9EA-4EF9-8270-3D9804B2ED8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E6FE86-B9EA-4EF9-8270-3D9804B2ED8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E6FE86-B9EA-4EF9-8270-3D9804B2ED8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
