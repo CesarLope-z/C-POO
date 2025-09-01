@@ -12,6 +12,22 @@ namespace Ejemplo_prueba
         {
             Console.WriteLine("Hola, mundo!");
             Console.WriteLine("Presiona cualquier tecla para salir...");
+            
+            try{
+            
+        }
+        catch{
+            
+        }
+        finally{
+            
+        }
+        //otra forma
+        if(int.tryParse(entrada, out int edad)){
+            
+        }else{
+            
+        }
             Console.ReadKey();
         }
     }
